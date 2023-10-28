@@ -1,0 +1,28 @@
+body{
+    background-color: chocolate;
+}
+h3{
+    color: rgb(57, 14, 211);
+    font-size: 30px;
+    text-align: center;
+
+}
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+video{
+    width: 20%;
+    height:20%;
+    text-align: center;
+
+
+}
+a{
+    color: rgb(57, 14, 211);
+    font-size: 30px;
+    text-align: center;
+}
